@@ -15,5 +15,5 @@
 <h3><font color=purple>10.177.178.174:8083/webapp</font> - av-ansible-t.pentaho.net</h3>
 <BR>
 <h2>Kubernetes</h2>
-<h3><font color=purple>10.177.178.165:31200/webapp</font> - arthurk8s-master-1.pentaho.net</h3>
+<h3><font color=purple>10.177.178.165:31200/webapp</font> - arthurk8stest-master-1.pentaho.net</h3>
 
